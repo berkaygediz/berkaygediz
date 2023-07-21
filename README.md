@@ -3,6 +3,3 @@
 # Stats:
 ![](https://github-readme-stats.vercel.app/api?username=berkaygediz&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=berkaygediz&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=berkaygediz&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-(Repos containing the Yacc language are private because they break the statistics.)
