@@ -1,4 +1,12 @@
-Building the OpenLapis ([GitHub](https://github.com/OpenLapis)) cross-platform desktop environment. Administrator at r/LinuxTurkey ([GitHub](https://github.com/LinuxTurkey), [Reddit](https://www.reddit.com/r/LinuxTurkey/), [Lemmy](https://lemmy.world/c/LinuxTurkey)).
+I build open-source desktop apps, system tools, and browser extensions, designed to connect and work seamlessly together. 
+
+Administrator at r/LinuxTurkey ([GitHub](https://github.com/LinuxTurkey), [Reddit](https://www.reddit.com/r/LinuxTurkey/), [Lemmy](https://lemmy.world/c/LinuxTurkey)), r/AndroidTurkiye ([Reddit](https://www.reddit.com/r/AndroidTurkiye/), [Lemmy](https://lemmy.world/c/AndroidTurkiye)), r/acikkaynak ([Reddit](https://www.reddit.com/r/acikkaynak/), [Lemmy](https://lemmy.world/c/acikkaynak)) & r/... ([Reddit](https://www.reddit.com/r/.../), [Lemmy](https://lemmy.world/c/...)).
+
+### Bridge
+
+| Repository | Description |
+| --- | --- |
+| **[OpenLapis Connect](https://github.com/berkaygediz/openlapis-connect)** | Cross-platform backbone for data exchange between browser extensions, desktop apps, and mobile devices. |
 
 ### Office
 
@@ -11,7 +19,7 @@ Building the OpenLapis ([GitHub](https://github.com/OpenLapis)) cross-platform d
 
 | Repository | Description |
 | --- | --- |
-| **[PASPAS](https://github.com/berkaygediz/PASPAS)** | Blazing-fast, all-in-one system optimizer. |
+| **[PASPAS](https://github.com/berkaygediz/PASPAS)** | All-in-one system optimizer. |
 
 ### Components
 
