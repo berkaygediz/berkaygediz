@@ -26,7 +26,7 @@ Administrator at r/LinuxTurkey ([GitHub](https://github.com/LinuxTurkey), [Reddi
 | Repository | Description |
 | --- | --- |
 | **[IterativeAds](https://github.com/berkaygediz/IterativeAds)** | Ad generation via offline LLMs with on-device inference, optionally managed by a self-hosted CMS. |
-| **[ImgOmni](https://github.com/berkaygediz/ImgOmni)** | Qt-based inline image processor for documents. Supports direct editing, enhancement, and resizing within the editor, embedding images as Base64 for self-contained files. |
+| **[ImgOmni-PIL](https://github.com/berkaygediz/ImgOmni-PIL)** | Qt-based inline image processor for documents. Supports direct editing, enhancement, and resizing within the editor, embedding images as Base64 for self-contained files. |
 | **[dynaRTF](https://github.com/berkaygediz/dynaRTF)** | Extracts and renders content from RTF and MSG files with embedded image and encoding support. |
 | **[dynaODT](https://github.com/berkaygediz/dynaODT)** | Extracts and renders content from ODT files with embedded image and encoding support. |
 | **[lanczosASCII](https://github.com/berkaygediz/lanczosASCII)** | Convert videos to ASCII using Lanczos sampling and display them in a GUI. |
