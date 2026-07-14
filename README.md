@@ -1,6 +1,6 @@
 I build open-source desktop apps, system tools, and browser extensions, designed to connect and work seamlessly together. 
 
-Administrator at r/LinuxTurkey ([GitHub](https://github.com/LinuxTurkey), [Reddit](https://www.reddit.com/r/LinuxTurkey/), [Lemmy](https://lemmy.world/c/LinuxTurkey)), r/AndroidTurkiye ([Reddit](https://www.reddit.com/r/AndroidTurkiye/), [Lemmy](https://lemmy.world/c/AndroidTurkiye)), r/acikkaynak ([Reddit](https://www.reddit.com/r/acikkaynak/), [Lemmy](https://lemmy.world/c/acikkaynak)) & r/... ([Reddit](https://www.reddit.com/r/.../), [Lemmy](https://lemmy.world/c/...)).
+Administrator at r/LinuxTurkey ([GitHub](https://github.com/LinuxTurkey), [Reddit](https://www.reddit.com/r/LinuxTurkey/), [Lemmy](https://lemmy.world/c/LinuxTurkey)) & r/AndroidTurkiye ([Reddit](https://www.reddit.com/r/AndroidTurkiye/), [Lemmy](https://lemmy.world/c/AndroidTurkiye))
 
 ### Bridge
 
@@ -19,7 +19,7 @@ Administrator at r/LinuxTurkey ([GitHub](https://github.com/LinuxTurkey), [Reddi
 
 | Repository | Description |
 | --- | --- |
-| **[PASPAS](https://github.com/berkaygediz/PASPAS)** | All-in-one system optimizer. |
+| **[PASPAS](https://github.com/berkaygediz/PASPAS)** |  All-in-one system utility to clean temporary files, review registry entries, uninstall programs, and tweak Windows performance. |
 
 ### Components
 
@@ -55,7 +55,6 @@ Administrator at r/LinuxTurkey ([GitHub](https://github.com/LinuxTurkey), [Reddi
 
 | Repository | Description |
 | --- | --- |
-| **[financeMONO](https://github.com/berkaygediz/financeMONO)** | All internet banking branches, electronic payment institutions (EMI), gold, stock market, and cryptocurrency data in one place. |
 | **[LiveReleaseGet](https://github.com/berkaygediz/LiveReleaseGet)** | CLI to get the latest version and source code from GitHub repositories. |
 | **[O_Blog](https://github.com/berkaygediz/O_Blog)** | Social Article Network. |
 | **[Tutgetch](https://github.com/berkaygediz/Tutgetch)** | The dot-catching game. |
