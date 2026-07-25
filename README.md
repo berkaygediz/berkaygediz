@@ -43,7 +43,7 @@ Administrator at r/LinuxTurkey ([GitHub](https://github.com/LinuxTurkey), [Reddi
 
 | Repository | Description |
 | --- | --- |
-| **[LocalModerationMatrix](https://github.com/berkaygediz/LocalModerationMatrix)** | CLI moderation tool for bulk message deletion and media cleanup in Matrix rooms. Supports E2EE. |
+| **[LocalModerationMatrix](https://github.com/berkaygediz/LocalModerationMatrix)** | CLI moderation tool for bulk message deletion and media cleanup in Matrix rooms. |
 
 ### Blocklists
 
