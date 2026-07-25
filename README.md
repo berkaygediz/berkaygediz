@@ -55,6 +55,6 @@ Administrator at r/LinuxTurkey ([GitHub](https://github.com/LinuxTurkey), [Reddi
 
 | Repository | Description |
 | --- | --- |
-| **[LiveReleaseGet](https://github.com/berkaygediz/LiveReleaseGet)** | CLI tool to fetch and download the latest release assets and source code from GitHub, Codeberg, and Gitea repositories. |
+| **[LiveReleaseGet](https://github.com/berkaygediz/LiveReleaseGet)** | CLI to download latest releases and source code from GitHub, Codeberg, and Gitea. |
 | **[O_Blog](https://github.com/berkaygediz/O_Blog)** | Social Article Network. |
 | **[Tutgetch](https://github.com/berkaygediz/Tutgetch)** | The dot-catching game. |
