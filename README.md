@@ -49,7 +49,7 @@ Administrator at r/LinuxTurkey ([GitHub](https://github.com/LinuxTurkey), [Reddi
 
 | Repository | Description |
 | --- | --- |
-| **[universal-blocklist](https://github.com/berkaygediz/universal-blocklist)** | Universal blocklist for uBlacklist, YTBlock, uKick, uDittor, Unwanted Twitch, uBlock Origin, and uSozluk. |
+| **[universal-blocklist](https://github.com/berkaygediz/universal-blocklist)** | Personal universal blocklist for search results, YouTube, Kick, Twitch, Reddit, and Ekşi Sözlük. |
 
 ### Others
 
