@@ -7,6 +7,7 @@ Administrator at r/LinuxTurkey ([GitHub](https://github.com/LinuxTurkey), [Reddi
 | Repository | Description |
 | --- | --- |
 | **[OpenLapis Connect](https://github.com/berkaygediz/openlapis-connect)** | Cross-platform backbone for data exchange between browser extensions, desktop apps, and mobile devices. |
+| **[OpenLapis IPC](https://github.com/berkaygediz/openlapis-ipc)** | Inter-Process Communication (IPC) layer for communication between local applications. |
 
 ### Office
 
@@ -25,10 +26,12 @@ Administrator at r/LinuxTurkey ([GitHub](https://github.com/LinuxTurkey), [Reddi
 
 | Repository | Description |
 | --- | --- |
-| **[IterativeAds](https://github.com/berkaygediz/IterativeAds)** | Ad generation via offline LLMs with on-device inference, optionally managed by a self-hosted CMS. |
+| **[PaginatedDocumentView](https://github.com/berkaygediz/PaginatedDocumentView)** | Page-based rich-text widget with custom margins supporting interactive rendering for documents up to 8,000+ pages. |
+| **[NativeCanvas](https://github.com/berkaygediz/NativeCanvas)** | GPU-accelerated layout engine that renders OOXML nodes directly onto absolute canvas coordinates. |
 | **[ImgOmni-PIL](https://github.com/berkaygediz/ImgOmni-PIL)** | Qt-based inline image processor for documents. Supports direct editing, enhancement, and resizing within the editor, embedding images as Base64 for self-contained files. |
 | **[dynaRTF](https://github.com/berkaygediz/dynaRTF)** | Extracts and renders content from RTF and MSG files with embedded image and encoding support. |
 | **[dynaODT](https://github.com/berkaygediz/dynaODT)** | Extracts and renders content from ODT files with embedded image and encoding support. |
+| **[IterativeAds](https://github.com/berkaygediz/IterativeAds)** | Ad generation via offline LLMs with on-device inference, optionally managed by a self-hosted CMS. |
 | **[lanczosASCII](https://github.com/berkaygediz/lanczosASCII)** | Convert videos to ASCII using Lanczos sampling and display them in a GUI. |
 
 ### Extensions
