@@ -1,6 +1,6 @@
 I build open-source desktop apps, system tools, and browser extensions, designed to connect and work seamlessly together. 
 
-Administrator at r/LinuxTurkey ([GitHub](https://github.com/LinuxTurkey), [Reddit](https://www.reddit.com/r/LinuxTurkey/), [Lemmy](https://lemmy.world/c/LinuxTurkey)) & r/AndroidTurkiye ([Reddit](https://www.reddit.com/r/AndroidTurkiye/), [Lemmy](https://lemmy.world/c/AndroidTurkiye))
+Administrator at r/LinuxTurkey ([GitHub](https://github.com/LinuxTurkey), [Reddit](https://www.reddit.com/r/LinuxTurkey/), [Lemmy](https://lemmy.world/c/LinuxTurkey)), r/AndroidTurkiye ([Reddit](https://www.reddit.com/r/AndroidTurkiye/), [Lemmy](https://lemmy.world/c/AndroidTurkiye)) & r/CodingTR ([Reddit](https://www.reddit.com/r/CodingTR/), [Lemmy](https://lemmy.world/c/CodingTR))
 
 ### Bridge
 
@@ -47,6 +47,7 @@ Administrator at r/LinuxTurkey ([GitHub](https://github.com/LinuxTurkey), [Reddi
 | Repository | Description |
 | --- | --- |
 | **[LocalModerationMatrix](https://github.com/berkaygediz/LocalModerationMatrix)** | CLI moderation tool for bulk message deletion and media cleanup in Matrix rooms. |
+| **[LocalModerationLemmy](https://github.com/berkaygediz/LocalModerationLemmy)** | Web-based moderation interface for bulk content deletion and community management. |
 
 ### Blocklists
 
