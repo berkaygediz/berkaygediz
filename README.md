@@ -12,7 +12,7 @@ Administrator at r/LinuxTurkey ([GitHub](https://github.com/LinuxTurkey), [Reddi
 
 | Repository | Description |
 | --- | --- |
-| **[SolidWriting](https://github.com/berkaygediz/SolidWriting)** | A modern word processor with AI integration, supporting real-time computing and advanced formatting. |
+| **[SolidWriting](https://github.com/berkaygediz/SolidWriting)** | A modern, dual-mode word processor with integrated AI, supporting real-time computing and advanced formatting. |
 | **[SolidSheets](https://github.com/berkaygediz/SolidSheets)** | A modern spreadsheet editor with ML integration, supporting real-time graphs and formulas. |
 
 ### System
