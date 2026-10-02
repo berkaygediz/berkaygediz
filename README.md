@@ -26,6 +26,7 @@ Administrator at r/LinuxTurkey ([GitHub](https://github.com/LinuxTurkey), [Reddi
 
 | Repository | Description |
 | --- | --- |
+| **[PaginatedSegmentView](https://github.com/berkaygediz/PaginatedSegmentView)** | Page-based rich-text widget supporting over 1 million pages with memory-efficient segmented rendering, scalable to virtually unlimited document sizes depending on available memory. |
 | **[PaginatedDocumentView](https://github.com/berkaygediz/PaginatedDocumentView)** | Page-based rich-text widget with custom margins supporting interactive rendering for documents up to 8,000+ pages. |
 | **[NativeCanvas](https://github.com/berkaygediz/NativeCanvas)** | GPU-accelerated layout engine that renders OOXML nodes directly onto absolute canvas coordinates. |
 | **[ImgOmni-PIL](https://github.com/berkaygediz/ImgOmni-PIL)** | Qt-based inline image processor for documents. Supports direct editing, enhancement, and resizing within the editor, embedding images as Base64 for self-contained files. |
